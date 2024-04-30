@@ -1,0 +1,34 @@
+# Node modules
+/node_modules
+
+# Logs
+*.log
+
+# Runtime data
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+/jspm_packages/
+/bower_components/
+
+# Optionally, you can also ignore your local development environment configuration files
+.env
+
+# Build files
+/build/
+/dist/
+
+# Editor-specific files
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# IDE-specific files
+*.idea/
+*.iml
+
+# OS generated files
+.DS_Store
+Thumbs.db
